@@ -27,7 +27,7 @@
 3. **M3**：WebSocket 房间聊天 + 审核钩子  
 4. **M4**：Docker 一键部署与白标配置  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
